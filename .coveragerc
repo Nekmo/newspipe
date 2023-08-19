@@ -1,0 +1,3 @@
+[run]
+include = newspipe/*
+omit = *migrations*, *tests*
