@@ -2,11 +2,6 @@
 NewsPipe
 ########
 
-.. image:: https://img.shields.io/travis/Nekmo/newspipe
-.svg?style=flat-square&maxAge=2592000
-  :target: https://travis-ci.org/Nekmo/newspipe
-  :alt: Latest Travis CI build status
-
 .. image:: https://img.shields.io/pypi/v/newspipe.svg?style=flat-square
   :target: https://pypi.org/project/newspipe/
   :alt: Latest PyPI version
