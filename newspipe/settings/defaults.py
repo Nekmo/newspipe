@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     "django_extensions",
     "crispy_forms",
     "rest_framework",
+    "adminsortable2",
+    "languages",
+    "parler",
 
     # Project apps
     "newspipe.apps.NewspipeAppConfig",

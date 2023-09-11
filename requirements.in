@@ -4,6 +4,9 @@ Django
 django-debug-toolbar
 django-extensions
 gunicorn
+django-admin-sortable2
+django-parler
+https://github.com/audiolion/django-language-field/archive/refs/heads/master.zip
 
 # Databases
 # ------------------------------------------------------------------------------

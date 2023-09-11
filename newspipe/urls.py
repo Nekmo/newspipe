@@ -8,4 +8,5 @@ urlpatterns = [
     # Django Admin, use {% url 'admin:index' %}
     path("admin/", admin.site.urls),
     # Your stuff: custom urls includes go here
+    path("", include("reader.urls")),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
